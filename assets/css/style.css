@@ -1,0 +1,42 @@
+body {
+    background-image: url("../images/use_your_illusion/use_your_illusion.png");
+}
+h1 {
+    font-family: 'Gravitas One', cursive;
+    color: #3CD859;
+    font-size: 245%;
+    text-align: left;
+}
+.counter {
+    font-family: 'Playfair Display', serif;
+    color: #3CD859;
+    font-size: 145%;
+    text-align: right;
+    padding: 10px 70px 5px 0px;
+}
+button{
+    font-size: 125%;
+    text-align: center;
+    width: 225px;
+    background-color: #6A687A;
+    color: rgb(62, 66, 75);
+    border-radius: 15px;
+    margin: 15px;
+}
+
+label{
+    font-size: 75%;
+    color: #848fa5;
+}
+
+.questionbox{
+    padding: 65px;
+    margin: 15px auto;
+    width: 45%;
+    font-size: 175%;
+    font-family: 'Playfair Display', serif;
+    background-color:  rgb(149,165,166, .35);
+    color: #E5DCC5;
+    text-align: center;
+    border-radius: 15px 50px;
+}

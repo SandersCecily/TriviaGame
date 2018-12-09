@@ -1,0 +1,79 @@
+[
+    {
+        "question": "What is Catharsis?",
+        "options": ["Emotional Release","A type of arthritis","Therapy in a cathedral","A classification of mental disorders"],
+        "correct": "Emotional Release"
+    },
+    {
+        "question": "What is Denial?",
+        "options": ["A river", 
+            "The ability to pretend a situation doesn't exist",
+            "A taxing event causing distress inside of a person",
+            "Transfer of emotion from one situation to another"],
+        "correct": "The ability to pretend a situation doesn't exist"
+    },
+    {
+        "question": "What is Displacement?",
+        "options": ["A taxing event causing distress inside of a person",
+                    "---",
+                    "Transfer of emotion from one situation to another",
+                    "==="],
+        "correct": "Transfer of emotion from one situation to another"
+    },
+    {
+        "question": "What is Dualism?",
+        "options": ["000",
+                    "===",
+                    "---",
+                    "Mind and Body are two different things"],
+        "correct": "Mind and Body are two different things"
+    },
+    {
+        "question": "What is Ego?",
+        "options": ["The mind between the conscious and unconcious",
+                    "---",
+                    "===",
+                    "000"],
+        "correct": "The mind between the conscious and unconcious"
+    },
+    {
+        "question": "What is Id?",
+        "options": ["---",
+                    "The unconcious mind",
+                    "===",
+                    "Batman"],
+        "correct": "The unconcious mind"
+    },
+    {
+        "question": "What is Super Ego?",
+        "options": ["Superman",
+                    "---",
+                    "The conscious mind",
+                    "===="],
+        "correct": "The conscious mind"
+    },
+    {
+        "question": "What is Psychosis?",
+        "options": ["000",
+                    "---",
+                    "===",
+                    "Severe mental disturbance"],
+        "correct": "Severe mental disturbance"
+    },
+    {
+        "question": "What is Undoing?",
+        "options": ["===",
+                    "---",
+                    "Trying to feel better from what you're ashamed of",
+                    "000"],
+        "correct": "Trying to feel better from what you're ashamed of"
+    },
+    {
+        "question": "What is Neuroses",
+        "options": ["000",
+                    "A personality disorder",
+                    "---",
+                    "==="],
+        "correct": "A personality disorder"
+    }
+]
